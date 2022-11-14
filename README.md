@@ -1,5 +1,11 @@
-# g4-Briel.github.io
-Meu portifólio no github pages
-**Negrito**
-*Itálico*
-Lista: 1. Primeiro 2. Segundo 3. Terceiro
+# Gabriel Lopes
+
+Olá meu nome é Gabriel, Designer de Jogos Júnior, com habilidades em Designer 2D, Designer de Som, etc. Esse é meu portifólio no github pages.
+
+Aqui vão algumas da minhas principais ferramentas:
+
+- GIMP
+- Inkscape
+- Audacity
+- DragonBones 2D
+- Godot
