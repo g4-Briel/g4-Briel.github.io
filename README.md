@@ -12,3 +12,4 @@ Aqui vão algumas da minhas principais ferramentas:
 
 ![Animação cômica de uma pessoa rastejando igual uma lagarta na areia da praia até chegar na água](https://media.giphy.com/media/cLYAk89lmwapf6mf42/giphy.gif)
 ![avatar](https://user-images.githubusercontent.com/105562139/201722096-7d4ea930-97ec-44c1-a3d1-b9f943e9e601.png)
+<img src="201722096-7d4ea930-97ec-44c1-a3d1-b9f943e9e601.png" alt="201722096-7d4ea930-97ec-44c1-a3d1-b9f943e9e601.png" width="200"/>
