@@ -10,4 +10,4 @@ Aqui vão algumas da minhas principais ferramentas:
 - DragonBones 2D
 - Godot
 
-![Animação cômica de uma pessoa rastejando igual uma lagarta na areia da praia até chegar na água](https://https://media.giphy.com/media/cLYAk89lmwapf6mf42/giphy.gif)
+![Animação cômica de uma pessoa rastejando igual uma lagarta na areia da praia até chegar na água](https://media.giphy.com/media/cLYAk89lmwapf6mf42/giphy.gif)
